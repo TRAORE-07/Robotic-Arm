@@ -5,5 +5,8 @@ Hardware Components:
 - Breadboard
 - Arduino UNO
 - Robotic Arm
-- 4 Servo Motors
+- 3 SG90 Servo Motors
+- 3 MG995 Servo Motors
+- 1 DHT sensor
 - 1 Ball
+- Jumping Wires
