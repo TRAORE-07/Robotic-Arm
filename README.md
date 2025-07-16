@@ -1,7 +1,7 @@
 # Robotic-Arm
 This robotic arm is an IOT (Internet Of Things) project, equipped with Advanced Sensors, Wireless Connectivity and Augmented Reality (AR).
 
-Hardware Components:
+1) Hardware Components:
 - Breadboard
 - Arduino UNO
 - Robotic Arm
@@ -12,3 +12,6 @@ Hardware Components:
 - Frame
 - 1 Ball
 - Jumping Wires
+
+2) Technology used:
+- Arduino IDE
