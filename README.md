@@ -13,5 +13,6 @@ This robotic arm is an IOT (Internet Of Things) project, equipped with Advanced 
 - 1 Ball
 - Jumping Wires
 
+
 2) Technology used:
 - Arduino IDE
